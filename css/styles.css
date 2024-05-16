@@ -126,3 +126,19 @@ body {
     letter-spacing: 0.02em;
 }
 /*------------------------------------*/
+
+/*---------------section4---------------*/
+.portfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+
+}
+
+.portfolio-dscr {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/*------------------------------------*/
