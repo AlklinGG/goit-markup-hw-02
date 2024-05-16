@@ -3,6 +3,7 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+
 /* ----------------HEADER----------------*/
  .logo-web {
     font-family: "Raleway", sans-serif;
@@ -47,6 +48,7 @@ body {
 /* -------------------------------*/
 
 /*---------------BODY---------------*/
+
 /*---------------section1---------------*/
 .main {
     background-color: #2e2f42;
@@ -76,6 +78,7 @@ body {
     background-color: #404bbf;
 } 
 /*------------------------------------*/
+
 /*---------------section2---------------*/
 .features {
     font-weight: 500;
@@ -89,5 +92,37 @@ body {
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #434455;
+}
+/*------------------------------------*/
+
+/*---------------section3---------------*/
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-dscr {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-list {
+    background-color: #FFFFFF;
+}
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-prg {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 /*------------------------------------*/
